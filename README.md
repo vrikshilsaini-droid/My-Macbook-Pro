@@ -1,4 +1,5 @@
 # My-Macbook-Pro
 This is my first Git Repository
 <br>
-Author - Vrikshil Duhan
+Author - Vrikshil Duhan (owner
+)
